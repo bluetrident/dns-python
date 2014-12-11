@@ -1,4 +1,6 @@
 dns-python
 ==========
 
-Dns python command line
+Dns python command line lookup
+
+pip install dnspython
